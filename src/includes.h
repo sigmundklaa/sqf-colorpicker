@@ -1,0 +1,2 @@
+
+#include "rsc\RscColorPicker.hpp"
